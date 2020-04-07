@@ -1,6 +1,7 @@
 //解决tagetlist中漏识别后又重新识别到的问题。以Vy为主排序可解决。
 //发现4中targetList传参有问题
 //解决了从右往左飞行的识别问题
+//GitHub同步
 #include <algorithm>
 #include<fstream>
 #include<vector>
